@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there! I'm Rafael Fogaça! 👋
+ 
+### 📚 Academic Training:
+- Internet Computer Technician
+- Graduating Cyber Security
 
-<!--
-**Furigato/Furigato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Studying:
+- Web Development
+- Cyber Security
+- Ethical Hacking
+- Personal Development
 
-Here are some ideas to get you started:
+### Minhas redes:
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/furigato/) [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/furigato/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="left">
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=furigato&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>	
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=furigato&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dark" />
+</div><br>	
